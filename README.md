@@ -1,3 +1,3 @@
 ﻿# AluraCursos
 
-Aqui neste repositorio ficarão armazenados todos os resultados finais dos cursos realizados por mim atraves da Plataforma de Ensino ALURA
+Aqui neste repositório ficarão armazenados todos os resultados finais dos cursos realizados por mim através da Plataforma de Ensino ALURA
